@@ -1,0 +1,168 @@
+tml {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+ul,
+ol {
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.body {
+  margin: 0;
+
+}
+
+.container {
+  margin: 0 330px;
+  background-color: #BA55D3;
+}
+
+.nav {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  background-color: #BA55D3;
+}
+
+.head {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  margin-right: 25px;
+  color: black;
+}
+
+
+.name-two {
+  padding-top: 600px;
+}
+
+.name {
+  background-color: #BA55D3;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+
+  width: 300px;
+  height: 35px;
+  padding-left: 30px;
+  display: flex;
+  align-self: center;
+
+
+}
+
+.name-one {
+  background-color: #BA55D3;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+
+  width: 300px;
+  height: 35px;
+  padding-left: 30px;
+  display: flex;
+  align-self: center;
+  margin-top: 0px;
+
+}
+
+
+
+.headdings {
+  background-image: url(./img/2017-02-27T120000Z_1716094008_MT1IMGCNPBU58384208_RTRMADP_3_CHINA-SHANGHAI-BEAUTY-AND-THE-BEAST-EMMA-WATSON.jpg);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+.paragraf {
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+
+  background-color: #EE82EE;
+}
+
+.paragraf-one {
+  background: #BA55D3;
+  padding: 10px;
+  margin: 5px 100px;
+}
+
+.subtitle {
+  margin-left: 235px;
+  margin-right: 235px;
+  background-color: #EE82EE;
+}
+
+.about {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.about-text {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+}
+
+.desc {
+  background-color: #EE82EE;
+  padding: 20px 200px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.img {
+  display: flex;
+}
+
+.success {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  background-color: #EE82EE;
+  padding: 10px 15px;
+}
